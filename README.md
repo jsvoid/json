@@ -1,6 +1,6 @@
 # json
 
-Alreay finished the parser part
+Already finished the parser part
 
 ## Goal
 
