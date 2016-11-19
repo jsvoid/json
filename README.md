@@ -1,5 +1,7 @@
 # json
 
+Alreay finished the parser part
+
 ## Goal
 
 1. parse json text as a tree data structure
